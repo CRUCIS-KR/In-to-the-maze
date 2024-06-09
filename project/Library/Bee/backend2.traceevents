@@ -1,0 +1,294 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1717972626381296, "dur":10770, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626392070, "dur":56, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626392145, "dur":438, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626392668, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/3D Pacman_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1717972626392597, "dur":1620, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626394218, "dur":79867, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626474086, "dur":353, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626474473, "dur":54, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626474694, "dur":627, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1717972626392446, "dur":1777, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717972626394224, "dur":2102, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1717972626397216, "dur":141, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1717972626397531, "dur":227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\Unity\\In to the maze (project)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717972626397759, "dur":207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\Unity\\In to the maze (project)\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717972626397967, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\Unity\\In to the maze (project)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717972626398215, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\Unity\\In to the maze (project)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717972626398361, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\Unity\\In to the maze (project)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1717972626397358, "dur":1309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717972626398973, "dur":70991, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717972626471114, "dur":2452, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717972626471113, "dur":2454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/3D Pacman_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1717972626473579, "dur":407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1717972626392466, "dur":1764, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717972626394232, "dur":249, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717972626394481, "dur":1847, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1717972626396858, "dur":962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1717972626397831, "dur":736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717972626398644, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717972626400189, "dur":2069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717972626402283, "dur":2766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1717972626405085, "dur":414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1717972626405513, "dur":1066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1717972626406586, "dur":67481, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717972626392485, "dur":1752, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717972626394238, "dur":251, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717972626394489, "dur":1861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1717972626396350, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1717972626397951, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1717972626399460, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717972626401006, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717972626403529, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1717972626406702, "dur":67369, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717972626392461, "dur":1765, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717972626394228, "dur":264, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717972626394492, "dur":1841, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1717972626396333, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1717972626397477, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1717972626399395, "dur":1357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717972626400776, "dur":2539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717972626403404, "dur":3434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1717972626406866, "dur":67232, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717972626392483, "dur":1751, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717972626394235, "dur":253, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717972626394488, "dur":1923, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1717972626397079, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717972626399294, "dur":1203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717972626400508, "dur":2896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717972626403449, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1717972626406926, "dur":67193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717972626392502, "dur":1739, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717972626394242, "dur":275, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717972626394517, "dur":1890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1717972626396579, "dur":1440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman.exe" }}
+,{ "pid":12345, "tid":6, "ts":1717972626398042, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717972626399236, "dur":1234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717972626400507, "dur":2611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717972626403156, "dur":3491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1717972626406677, "dur":67396, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717972626392521, "dur":1724, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717972626394246, "dur":276, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717972626394522, "dur":1814, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1717972626396343, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1717972626396340, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1717972626398386, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1717972626400269, "dur":2503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717972626402819, "dur":3163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1717972626405998, "dur":68101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717972626392532, "dur":1716, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717972626394250, "dur":279, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717972626394530, "dur":1812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1717972626396343, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1717972626397735, "dur":1891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1717972626399645, "dur":1847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717972626401522, "dur":2383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717972626403931, "dur":3416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1717972626407374, "dur":66694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1717972626392546, "dur":1707, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1717972626394255, "dur":59, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1717972626394314, "dur":2025, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1717972626396340, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1717972626399089, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1717972626400344, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1717972626402859, "dur":3359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1717972626406252, "dur":67805, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1717972626392565, "dur":1694, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1717972626394259, "dur":2186, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1717972626397067, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1717972626398037, "dur":1336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1717972626399420, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.AI.Navigation.Samples.dll" }}
+,{ "pid":12345, "tid":10, "ts":1717972626401019, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1717972626403524, "dur":3388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1717972626406935, "dur":67180, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1717972626392881, "dur":1473, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1717972626394354, "dur":2104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1717972626397033, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1717972626397965, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1717972626398858, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1717972626400253, "dur":2297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1717972626402578, "dur":2661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1717972626405283, "dur":613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1717972626405915, "dur":677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1717972626406604, "dur":67457, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1717972626392594, "dur":1677, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1717972626394272, "dur":2136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1717972626396408, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/3D Pacman_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1717972626397012, "dur":3002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1717972626400037, "dur":2121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1717972626402198, "dur":2605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1717972626404830, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1717972626404829, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1717972626404911, "dur":8242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1717972626413169, "dur":60893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1717972626392609, "dur":1668, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1717972626394277, "dur":2109, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1717972626396386, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1717972626399600, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1717972626398258, "dur":1422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1717972626399722, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1717972626401259, "dur":2434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1717972626403733, "dur":3422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1717972626407182, "dur":66892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1717972626392633, "dur":1647, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1717972626394281, "dur":2064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1717972626396354, "dur":323, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":14, "ts":1717972626396345, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1717972626398102, "dur":1594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1717972626399774, "dur":1924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":14, "ts":1717972626401769, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1717972626404129, "dur":3362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1717972626407519, "dur":66547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1717972626392645, "dur":1640, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1717972626394285, "dur":2056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1717972626396342, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1717972626398067, "dur":1572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1717972626399683, "dur":1361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":15, "ts":1717972626401064, "dur":2593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1717972626403702, "dur":3458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1717972626407189, "dur":66939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1717972626392659, "dur":1631, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1717972626394290, "dur":2044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1717972626396495, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":16, "ts":1717972626396335, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1717972626398422, "dur":1719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1717972626400198, "dur":2288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1717972626402526, "dur":3203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1717972626405772, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1717972626407504, "dur":66586, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1717972626392676, "dur":1619, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1717972626394295, "dur":2045, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1717972626396353, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":17, "ts":1717972626396341, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":17, "ts":1717972626398092, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":17, "ts":1717972626399818, "dur":1678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1717972626401542, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1717972626404037, "dur":3305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1717972626407369, "dur":66726, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1717972626392688, "dur":1612, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1717972626394300, "dur":2115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1717972626397089, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":18, "ts":1717972626398685, "dur":1501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":18, "ts":1717972626400240, "dur":2491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1717972626402770, "dur":3038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1717972626405843, "dur":878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":18, "ts":1717972626406731, "dur":67402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1717972626392703, "dur":1602, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1717972626394305, "dur":2087, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1717972626396393, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1717972626397136, "dur":4831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":19, "ts":1717972626401989, "dur":2734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1717972626404763, "dur":2824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1717972626407601, "dur":66496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1717972626392719, "dur":1590, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1717972626394310, "dur":2079, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1717972626396392, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1717972626396389, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1717972626397124, "dur":1729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":20, "ts":1717972626398874, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":20, "ts":1717972626399894, "dur":1843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1717972626401814, "dur":2508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1717972626404358, "dur":3095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1717972626407466, "dur":66657, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1717972626392731, "dur":1583, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1717972626394314, "dur":2056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1717972626396370, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1717972626398147, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1717972626399789, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1717972626401490, "dur":2181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1717972626403693, "dur":3702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1717972626407426, "dur":66637, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1717972626392746, "dur":1572, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1717972626394318, "dur":2043, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1717972626396365, "dur":428, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":22, "ts":1717972626396362, "dur":432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":22, "ts":1717972626398105, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":22, "ts":1717972626399446, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":22, "ts":1717972626400767, "dur":2585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1717972626403400, "dur":3213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1717972626406625, "dur":67461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1717972626392764, "dur":1558, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1717972626394323, "dur":2020, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1717972626396343, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":23, "ts":1717972626398141, "dur":1903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":23, "ts":1717972626400114, "dur":2337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1717972626402471, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1717972626406110, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1717972626405184, "dur":1037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":23, "ts":1717972626406226, "dur":67849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1717972626392782, "dur":1545, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1717972626394327, "dur":2017, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1717972626396344, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":24, "ts":1717972626398366, "dur":1691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":24, "ts":1717972626400106, "dur":1812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1717972626401938, "dur":2661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1717972626404621, "dur":2904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1717972626407546, "dur":66572, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1717972626392796, "dur":1536, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1717972626394332, "dur":1998, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1717972626396351, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":25, "ts":1717972626396332, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":25, "ts":1717972626396558, "dur":3410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":25, "ts":1717972626400001, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1717972626401863, "dur":2268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1717972626404180, "dur":3271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1717972626407471, "dur":66599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1717972626392814, "dur":1522, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1717972626394336, "dur":1995, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1717972626396352, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.27f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":26, "ts":1717972626396332, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":26, "ts":1717972626397746, "dur":1310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":26, "ts":1717972626399110, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":26, "ts":1717972626400281, "dur":2417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1717972626402716, "dur":3166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1717972626405924, "dur":68136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1717972626392831, "dur":1509, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1717972626394340, "dur":1998, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1717972626396339, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":27, "ts":1717972626398403, "dur":1538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":27, "ts":1717972626399966, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1717972626401867, "dur":2252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1717972626404259, "dur":3285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1717972626407559, "dur":66513, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1717972626392847, "dur":1498, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1717972626394345, "dur":2095, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1717972626397046, "dur":986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":28, "ts":1717972626398053, "dur":721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":28, "ts":1717972626398796, "dur":1203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":28, "ts":1717972626400033, "dur":1726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1717972626401861, "dur":2637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1717972626404534, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1717972626407582, "dur":66529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1717972626392861, "dur":1489, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1717972626394350, "dur":1983, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1717972626396335, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":29, "ts":1717972626397454, "dur":2153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":29, "ts":1717972626399633, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":29, "ts":1717972626401024, "dur":2340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1717972626403420, "dur":3090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1717972626406522, "dur":67562, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1717972626392578, "dur":1687, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1717972626394265, "dur":2154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1717972626402004, "dur":3075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":30, "ts":1717972626405292, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":30, "ts":1717972626406266, "dur":67798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1717972626392893, "dur":1466, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1717972626394359, "dur":2090, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1717972626397027, "dur":926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":31, "ts":1717972626397995, "dur":767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":31, "ts":1717972626398783, "dur":585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":31, "ts":1717972626399389, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":31, "ts":1717972626400446, "dur":2527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1717972626403000, "dur":3443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1717972626406459, "dur":67597, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1717972626392907, "dur":1456, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1717972626394363, "dur":1972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1717972626396336, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":32, "ts":1717972626398280, "dur":1814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":32, "ts":1717972626400118, "dur":2171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1717972626402314, "dur":2731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1717972626405084, "dur":454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":32, "ts":1717972626405562, "dur":776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///2-1///In to the maze (build)/3D Pacman_Data/level0" }}
+,{ "pid":12345, "tid":32, "ts":1717972626406350, "dur":67709, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1717972626476320, "dur":521, "ph":"X", "name": "ProfilerWriteOutput" }
+,
